@@ -1,0 +1,41 @@
+:root{
+    background-color: #f8c471;
+}
+
+h1{
+    text-align:center ;
+    text-decoration-color: goldenrod;
+    color: #398fc8;
+    font-size:8ch;
+}
+
+p{
+    font-size: 2ch;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+table,td,th{
+    border:2px solid   #2e86c1;
+    border-style: solid;
+}
+
+.logo{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    padding: 2.1px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.frs{
+    text-align: center;
+    font-size:2.2ch;
+    font-style: oblique;
+    color:  #2e86c1;
+}
